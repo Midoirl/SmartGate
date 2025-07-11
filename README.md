@@ -72,11 +72,11 @@ Watch the system in action:
 
 ---
 
-## 🤖 Author
+##  Author
 Created by Mahmod Kirresh — a passionate student exploring automation, engineering, and innovation through hands-on Arduino projects.
 
 ---
 
-## 🌐 License
+##  License
 This project is open source and free to use for educational and non-commercial purposes.
 

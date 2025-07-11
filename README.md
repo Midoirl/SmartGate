@@ -51,10 +51,10 @@ The full Arduino `.ino` file is in this repo:
 
 ---
 
-## 🎥 Demo
-Watch the system in action:
-- [`Demo_Vid.mov`]([Demo_Vid.mov](https://drive.google.com/file/d/1yDplklDpdX-9Eut-AjtAmjA7VQzlC_tD/view?usp=drive_link))
+## Demo
 
+🎬 **Click here to watch the video demo**  
+[▶️ Watch on Google Drive](https://drive.google.com/file/d/1yDplklDpdX-9Eut-AjtAmjA7VQzlC_tD/view?usp=drive_link)
 ---
 
 ## 📦 Setup

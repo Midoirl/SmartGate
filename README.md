@@ -78,5 +78,5 @@ Watch the system in action:
 ---
 
 ##  License
-This project is open source and free to use for educational and non-commercial purposes.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 

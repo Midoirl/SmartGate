@@ -73,7 +73,7 @@ Watch the system in action:
 ---
 
 ##  Author
-Created by Mahmod Kirresh — a passionate student exploring automation, engineering, and innovation through hands-on Arduino projects.
+ Mahmod Kirresh 
 
 ---
 
